@@ -5,4 +5,3 @@
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 📚 I’m currently learning  Java, C, and C++.
-- 👯 I’m looking for a software development internship. 
